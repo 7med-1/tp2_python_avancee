@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+<produit id="P001" categorie="electronique">
+<nom>Laptop Pro</nom><prix>8500</prix><stock>12</stock>
+</produit>
+<produit id="P002" categorie="electronique">
+<nom>Smartphone X</nom><prix>3200</prix><stock>45</stock>
+</produit>
+<produit id="P003" categorie="bureau">
+<nom>Bureau Ergonomique</nom><prix>1500</prix><stock>8</stock>
+</produit>
+<produit id="P004" categorie="electronique">
+<nom>Tablette Z</nom><prix>2100</prix><stock>0</stock>
+</produit>
+</catalogue>
